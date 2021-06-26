@@ -20,5 +20,3 @@ git clone -b 18.06 https://github.com/garypang13/luci-theme-edge.git package/luc
 
 # APP
 # git clone -b master https://github.com/vernesong/OpenClash.git package/luci-app-openclash
-# git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
-# git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
